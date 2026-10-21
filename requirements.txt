@@ -1,0 +1,3 @@
+fastapi
+uvicorn[standard]  # web server for fastapi
+sqlalchemy # DB
